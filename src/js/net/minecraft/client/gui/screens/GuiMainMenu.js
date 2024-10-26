@@ -70,7 +70,7 @@ export default class GuiMainMenu extends GuiScreen {
 
         // Draw copyright
         let mouseOver = mouseX > this.width / 2 + 70 && mouseY > this.height - 20;
-        this.drawRightString(stack, "CA:", this.width - 2, this.height - 10, mouseOver ? 0xFF00FFFF : 0xFFFFFFff);
+        this.drawRightString(stack, "CA:ce3sePEmQTraYjzBZA33t6Gd5GM56pTukw5GPi9pump", this.width - 2, this.height - 10, mouseOver ? 0xFF00FFFF : 0xFFFFFFff);
 
         // Draw buttons
         super.drawScreen(stack, mouseX, mouseY, partialTicks);
