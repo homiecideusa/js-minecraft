@@ -27,7 +27,7 @@ import PlayerControllerMultiplayer from "./network/controller/PlayerControllerMu
 export default class Minecraft {
 
     static VERSION = "1.1.8"
-    static URL_GITHUB = "pump.fun/";
+    static URL_GITHUB = "https://pump.fun/ce3sePEmQTraYjzBZA33t6Gd5GM56pTukw5GPi9pump";
     static PROTOCOL_VERSION = 47; //758;
 
     // TODO Add to settings
